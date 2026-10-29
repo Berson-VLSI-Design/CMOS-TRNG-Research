@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the full collaborative student team when referring to these academic reports."
+title: "CMOS True Random Number Generation: From Ring-Oscillator Jitter to Current-Mode Chaos"
+type: report
+authors:
+  - given-names: "Berson Meshak"
+    family-names: "J"
+  - given-names: "Nikhil"
+    family-names: "Yadav"
+  - given-names: "Sarvesh"
+    family-names: "Kumar"
+  - given-names: "Kushi"
+    family-names: "Dixit"
+date-released: 2026-04-30
+institution: "Faculty of Technology, University of Delhi"
